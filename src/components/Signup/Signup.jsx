@@ -1,7 +1,10 @@
-
+import Box from '@emotion/react'
+import { TextField } from '@mui/material'
 const Signup = () => {
   return (
-    <div>Signup</div>
+    <Box>
+      <TextField></TextField>
+    </Box>
   )
 }
 
