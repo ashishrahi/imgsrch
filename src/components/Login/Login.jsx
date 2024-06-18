@@ -1,6 +1,5 @@
 import {Stack,Box} from '@mui/material'
 import { Link } from 'react-router-dom'
-import Sign_up from '../Signup/Signup'
 
 const Login = () => {
 
